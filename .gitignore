@@ -11,3 +11,5 @@ mortgage.py
 playtime.py
 playtime1.py
 randomWalks.py
+*.*~
+*.pyc
