@@ -1,3 +1,13 @@
 *.png
-*.py
 *.txt
+L18_code.py
+L18_code_gen.py
+Problem5-4_template.py
+Problem5_code.py
+Problem6_template.py
+final.py
+introspection.py
+mortgage.py
+playtime.py
+playtime1.py
+randomWalks.py
